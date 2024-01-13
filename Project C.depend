@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702881259 source:c:\users\youana\documents\project c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
